@@ -28,8 +28,10 @@
 ## LINGUAGEM DE PROGRAMAÇÃO UTILIZADA: `Dart`
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/768px-Dart_programming_language_logo.svg.png" alt="Dart" width=300>
 <hr>
+
 ## FRAMEWORK UTILIZADO: `Flutter`
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width=300>
 <hr>
+
 ## OBJETIVO DESTE REPOSITÓRIO 
 > Criação de um aplicativo o qual tem função de buscar faculdades em todo o Brasil e informar os cursos disponíveis e a nota de corte (ENEM) de cada um deles.
