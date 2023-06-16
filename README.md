@@ -8,7 +8,7 @@
 > - E-mail: jpos2@aluno.ifal.edu.br<br/>
 
 ## LINGUAGEM DE PROGRAMAÇÃO UTILIZADA: `Dart`
-<img src="https://user-images.githubusercontent.com/99278000/179435007-30abe8d5-336c-45a0-8bdd-69c575143f7f.png" alt="Dart" width=300>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/768px-Dart_programming_language_logo.svg.png" alt="Dart" width=300>
 
 ## FRAMEWORK UTILIZADO: `Flutter`
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width=300>
