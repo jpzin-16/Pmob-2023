@@ -7,16 +7,19 @@
 > - Escolaridade: Cursando o 3º ano do Ensino médio<br/>
 > - E-mail: jpos2@aluno.ifal.edu.br<br/>
 <hr>
+
 > - Nome: Marcela Silva Franco <br/>
 > - Idade: 17 anos <br/>
 > - Escolaridade: Cursando o 3º ano do Ensino médio<br/>
 > - E-mail: msf16@aluno.ifal.edu.br<br/>
 <hr>
+
 > - Nome: José Henrique Barbosa Lima <br/>
 > - Idade: 17 anos <br/>
 > - Escolaridade: Cursando o 3º ano do Ensino médio<br/>
 > - E-mail: jhbl1@aluno.ifal.edu.br<br/>
 <hr>
+
 > - Nome: Samuel Cavalcante da Silva <br/>
 > - Idade: 17 anos <br/>
 > - Escolaridade: Cursando o 3º ano do Ensino médio<br/>
